@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "names": "Carlos Actualizado!!",
+      "company": "xd",
+      "email": "vergarapablo2001@gmail.com",
+      "telephone": "+523318033018",
+      "notes": "Otro",
+      "id": 1
+    },
+    {
+      "names": "Pablo",
+      "company": "Duos2",
+      "email": "vergarapablo2001@gmail.com",
+      "telephone": "+523318033018",
+      "notes": "Cliente recomendado por otros",
+      "id": 2
+    },
+    {
+      "names": "Paulina",
+      "company": "Cargo",
+      "email": "vergarapablo2001@gmail.com",
+      "telephone": "",
+      "notes": "asdf",
+      "id": 4
+    }
+  ]
+}
