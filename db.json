@@ -1,28 +1,44 @@
 {
   "clients": [
     {
-      "names": "Carlos Actualizado!!",
-      "company": "xd",
-      "email": "vergarapablo2001@gmail.com",
-      "telephone": "+523318033018",
-      "notes": "Otro",
+      "names": "Carlos",
+      "company": "Apple",
+      "email": "carlos@gmail.com",
+      "telephone": "+523331452345",
+      "notes": "Hello good day",
       "id": 1
     },
     {
       "names": "Pablo",
-      "company": "Duos2",
-      "email": "vergarapablo2001@gmail.com",
-      "telephone": "+523318033018",
-      "notes": "Cliente recomendado por otros",
+      "company": "Amazon",
+      "email": "pablo@gmail.com",
+      "telephone": "+527896754352",
+      "notes": "Customer recommended by another",
       "id": 2
     },
     {
       "names": "Paulina",
-      "company": "Cargo",
-      "email": "vergarapablo2001@gmail.com",
+      "company": "Microsoft",
+      "email": "paulina@gmail.com",
       "telephone": "",
-      "notes": "asdf",
+      "notes": "Hello",
       "id": 4
+    },
+    {
+      "names": "Karla",
+      "company": "Google",
+      "email": "karla@gmail.com",
+      "telephone": "3321345678",
+      "notes": "The project must be finished by Monday.",
+      "id": 5
+    },
+    {
+      "names": "David",
+      "company": "Samsung",
+      "email": "david@gmail.com",
+      "telephone": "33454321234",
+      "notes": "",
+      "id": 6
     }
   ]
 }
