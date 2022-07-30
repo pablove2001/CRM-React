@@ -1,7 +1,7 @@
 <div>
 <h1  align="center">CRM React</h1>
 
-<h3  align="center">Manage your clients using <a  href="https://duos2-crm-react.netlify.app/" target="_blank">this</a> web project</h3>
+<h3  align="center">Manage your clients using this web project</h3>
 </div>
 
 <p  align="center">
@@ -31,11 +31,6 @@ This web project allows you to manage your clients. All your clients will be sav
 - Formik + Yup
 - Netlify
 - Visual Studio Code
-
-### How does it look?
-
-- Click <a href="https://duos2-crm-react.netlify.app/" target="_blank">here</a>
-  > **Note:** It's just to see the interface
 
 ## How to build?
 
